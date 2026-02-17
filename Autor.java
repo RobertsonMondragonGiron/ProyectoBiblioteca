@@ -1,7 +1,6 @@
 package Libreria;
 
-public class Autor
-{
+public class Autor {
     private String nombre;
     private String apellido;
     private String edad;

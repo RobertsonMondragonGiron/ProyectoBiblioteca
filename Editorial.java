@@ -1,7 +1,6 @@
 package Libreria;
 
-public class Editorial
-{
+public class Editorial {
     private String nombre;
     private String direccion;
     private String telefono;

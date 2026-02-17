@@ -1,7 +1,6 @@
 package Libreria;
 
 public class Libro {
-
     private String nombre;
     private int cantPaginas;
     private String genero;
